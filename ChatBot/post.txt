@@ -1,1 +1,0 @@
-Thrilled to announce my completion of Task 1 at CODSOFT's Artificial Internship! 🤖 Built a basic chatbot using if-else statements and pattern matching for user queries. 🚀 Learned heaps about natural language processing and conversation flow! #AI #Chatbots #InternshipSuccess
