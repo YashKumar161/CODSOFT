@@ -27,6 +27,6 @@ Usage:
 4. Start chatting with the chatbot by typing your messages.
 
 Inspiration and Tutorials:
-- LinkedIn Post: https://www.linkedin.com/posts/yash-kumar-talan_internshipachievement-recommendationsystems-activity-7190573205797928960-RwhM?utm_source=share&utm_medium=member_desktop
+- LinkedIn Post: https://www.linkedin.com/posts/yash-kumar-talan_ai-chatbots-internshipsuccess-activity-7189869317646094336-qPpO?utm_source=share&utm_medium=member_desktop
 
 Feel free to reach out if you have any questions or suggestions for improvement!
