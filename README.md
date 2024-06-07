@@ -20,7 +20,5 @@ Welcome to CodSoft's Artificial Intelligence virtual internship program! This re
 - **Company LinkedIn:** [CodSoft](https://www.linkedin.com/company/codsoft/)
 
 ## Contact Information
-- **Your LinkedIn:** [Yash Kumar Talan](https://www.linkedin.com/yash-kumar-talan)
-- **Your Email:** [hello@yashkumar.pro](mailto:hello@yashkumar.pro)
-
-For any questions or clarifications, feel free to reach out to us. Happy learning and best of luck with your internship!
+- **LinkedIn:** [Yash Kumar Talan](https://www.linkedin.com/yash-kumar-talan)
+- **Email:** [hello@yashkumar.pro](mailto:hello@yashkumar.pro)
